@@ -40,3 +40,9 @@ TournamentBot
  * TournamentBot:
  * 
  * It just starts the IRCClient and SocketServer.
+
+
+
+Also, if you preview it the intendation may be messed up. Not my fault, really D:
+
+it looks ok in my text editor
