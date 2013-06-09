@@ -15,7 +15,7 @@ TournamentBot
  * 
  * IRCClient: connects to irc to a server and room that can be configured. Waits for people to say !tournament to start the tournament,
  * 
- * and for 4 people to say !me <game-username-here> and join. It stores their game username and IRC nickname so that it can identify them,
+ * and for 2 people to say !me <game-username-here> and join. It stores their game username and IRC nickname so that it can identify them,
  * 
  * and pairs them up on 1 VS 1 battles.
  * 
